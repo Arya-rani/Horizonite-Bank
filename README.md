@@ -92,9 +92,6 @@ The following packages are essential for running Horizonite. Ensure you have the
 | **Pandas**      | 2.1.4       | Data manipulation and analysis  |
 | **Matplotlib**  | 3.8.2       | Data visualization              |
 | **Plotly**      | 5.18.0      | Interactive charts and graphs   |
-| **PyOTP**       | 2.9.0       | Two-factor authentication (2FA) |
-| **Pillow**      | 10.2.0      | Image processing                |
-| **UUID**        | 1.30        | Unique identifier generation    |
 
 > **Note**: Ensure you have **Python 3.11+** installed before setting up the project. You can download it from [python.org](https://www.python.org/downloads/).
 
